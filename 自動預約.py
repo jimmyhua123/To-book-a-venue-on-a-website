@@ -205,7 +205,7 @@ actions = ActionChains(driver)
 actions.click(login).perform()
 alertt = driver.switch_to.alert
 print(alertt.text)
-
+#自動往下預約
 while "是否確定預約" not in alertt.text:
     num=int(place)
     numpass=int(Your_password)
