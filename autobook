@@ -2,4 +2,5 @@ https://juejin.cn/post/7065332903831404552
 
 chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenium\ChromeProfile" 
 用這方式繞過google擋爬蟲跟驗證碼
-接下來就簡單了 我先以可以則預約哪天
+接下來就簡單了 我先以可以輸入預約哪天哪時段寫
+如果不想輸入參數就直接改就不用還會跳出問題了。
