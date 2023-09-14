@@ -4,3 +4,4 @@ chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\selenium\ChromeProfi
 用這方式繞過google擋爬蟲跟驗證碼
 接下來就簡單了 我先以可以輸入預約哪天哪時段寫
 如果不想輸入參數就直接改就不用還會跳出問題了。
+https://bts.xuanen.com.tw/ts01.aspx?module=net_booking&files=booking_place&StepFlag=2&PT=1&D=2023/07/21&D2=3 這段網址的日期記得改
